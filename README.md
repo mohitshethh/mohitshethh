@@ -2,7 +2,7 @@
 
 ### I'm Mohit Sheth, a learner.
 
-## :computer: Languages I am work with:
+## :computer: Languages I am working with:
 
 
 
